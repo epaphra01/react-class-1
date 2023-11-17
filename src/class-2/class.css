@@ -1,0 +1,110 @@
+.red-green{
+    color: red;
+}
+
+.carimg{
+    background-image: url('https://img.freepik.com/free-vector/speedometer-panel-black-panel-temperature-reading-speed-fuel-with-brightly-colored-scales_1284-42149.jpg?w=1060&t=st=1700128881~exp=1700129481~hmac=6189XvphsxoFkhszUs51ZevBo1v8ygmNwZ665668fe3af9dfba56f6c057a324c9');
+    background-repeat: no-repeat;
+ 
+    text-align: center;
+    padding: 30px;
+    color: white;
+    width: 1000px;
+    height: 500px;
+    margin-left: 150px;
+    
+}
+ .carmarbtn{
+     background-color: white;
+     border: none;
+     border-radius: 10px;
+     
+    
+}
+
+.carmar1{
+    margin-bottom: 180px;
+} 
+.carmar2{
+    
+    color: white;
+    background-color:rgb(69, 69, 221);
+    border-radius: 10px;
+    border: 1px solid white;
+    padding: 5px;
+}
+.mango{
+    border-radius: 10px;
+    border: none;
+    color: white;
+    background-color: rgb(80, 80, 211);
+
+}
+.mango1{
+    width: 500px;
+    height: 250px;
+}
+.size{
+    font-size: 60px;
+}
+.eat{
+    padding: 60px;
+    
+}
+.bbbb{
+    border-radius: 15px;
+    border: 50px solid rgb(194, 194, 99);
+
+}
+.wel{
+    font-size: 50px;
+    color: rgb(142, 142, 56);
+    margin-top: 80px;
+}
+.wel1{
+    color: white;
+    font-size: 20px;
+
+}
+.wel2{
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+.bg-dark{
+    background-color: rgb(35, 35, 52);
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    margin-left: 300px;
+}
+
+.bg-pink{
+    background-color: rgb(227, 142, 170);
+    color: black;
+    width: 600px;
+    height: 300px;
+    padding: 20px;
+    margin-left: 300px;
+}
+.increbtn{
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+
+    
+}
+.loginbtn{
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    border: none;
+}
+.loginbtn1{
+    color: white;
+    font-size: 30px;
+
+}
+.abc{
+    margin-top:200px;
+}
